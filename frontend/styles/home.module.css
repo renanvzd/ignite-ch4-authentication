@@ -6,4 +6,5 @@
   flex-direction: column;
   align-content: center;
   margin-top: 20%;
+  gap: 0.5rem;
 }
